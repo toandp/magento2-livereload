@@ -1,0 +1,18 @@
+{
+    "name": "tdpsoft/magento2-livereload",
+    "description": "Magento 2 Livereload for theme development",
+    "config": {
+        "sort-packages": true
+    },
+    "type": "magento2-module",
+    "license": "MiT",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "TDPSoft\\Livereload\\": ""
+        }
+    },
+    "version": "0.2.2"
+}

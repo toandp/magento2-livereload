@@ -1,0 +1,11 @@
+<?php
+/**
+ * Livereload script
+ *
+ * @var \TDPSoft\Livereload\Block\Head $block
+ */
+?>
+
+<?php if ($block->isEnabled()): ?>
+    <script src="<?= $block->getScriptURL(); ?>" src_type="url"></script>
+<?php endif; ?>
