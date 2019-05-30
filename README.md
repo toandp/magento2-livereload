@@ -1,6 +1,8 @@
 # Magento 2 Livereload
 Easy way to apply livereload for Magento 2 theme development
 
+![livereload](https://user-images.githubusercontent.com/45766814/58614413-75145f80-82e2-11e9-9636-565e00ae6c1c.gif)
+
 ## Installation
 Install the latest version with
 ```bash
